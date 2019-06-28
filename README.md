@@ -1,0 +1,1 @@
+Generates Excel sheet reports based on telemetry extracted from .etl captures.
